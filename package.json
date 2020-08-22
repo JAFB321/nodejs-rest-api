@@ -1,0 +1,24 @@
+{
+  "name": "rest-api-fazt",
+  "version": "1.0.0",
+  "description": "Prueba de REST API con NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FLANAX550/nodejs-rest-api.git"
+  },
+  "keywords": [
+    "Nodejs",
+    "api",
+    "rest"
+  ],
+  "author": "FLANAX550",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FLANAX550/nodejs-rest-api/issues"
+  },
+  "homepage": "https://github.com/FLANAX550/nodejs-rest-api#readme"
+}
