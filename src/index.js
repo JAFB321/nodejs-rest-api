@@ -17,8 +17,6 @@ app.use('/api/movies/', require('./routes/movies'));
 
 
 // Start Server
-const PORT = 3000;
-
-app.listen(app.get('port'), () => {
+app.listen(app.get('port'), () => { 
     console.log(`Server en el puerto ${app.get('port')}`);
 });
