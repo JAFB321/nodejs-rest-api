@@ -20,7 +20,8 @@
   "homepage": "https://github.com/FLANAX550/nodejs-rest-api#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "morgan": "^1.10.0"
+    "morgan": "^1.10.0",
+    "node-fetch": "^2.6.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
